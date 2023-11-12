@@ -1,0 +1,16 @@
+fastapi>=0.103.2
+python-multipart
+pydantic_settings==2.0.2
+pydantic>=2.4.2
+python-dotenv
+sqlalchemy
+pymysql
+toml==0.10.2
+requests
+alembic
+uvicorn
+PyJWT>=2.8.0
+icecream
+python-jose[cryptography]
+pycryptodome
+wechatpayv3

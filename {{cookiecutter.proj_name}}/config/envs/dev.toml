@@ -1,0 +1,7 @@
+[globals]
+debug = false
+env = "dev"
+app_name = {{cookiecutter.proj_name}}
+app_version = "1.0"
+description = ''
+

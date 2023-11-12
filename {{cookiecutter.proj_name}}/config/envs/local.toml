@@ -1,0 +1,7 @@
+[globals]
+debug = false
+env = "local"
+app_name = {{cookiecutter.proj_name}}
+app_version = "1.0"
+description = '星座大师'
+
